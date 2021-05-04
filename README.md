@@ -10,21 +10,29 @@
 ## Planning and design (pair work)
 
    Interviews
+   
    Wireframe
+   
    Backlog
 
 ## Development (on my own)
 
    Schedule
-   Constraints (including the CSS framework)
+   
+   Constraints 
+   
    Development strategy
+   
    Retrospective
+   
    Project board
 
 ## Technologies
 
    Figma
+   
    HTML
+   
    CSS
   
    
