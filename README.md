@@ -23,9 +23,9 @@
    
   - Development strategy
    
-   Retrospective
+  - Retrospective
    
-   Project board
+  - Project board
 
 ## Technologies
 
