@@ -9,19 +9,19 @@
 
 ## Planning and design (pair work)
 
-   Interviews
+ - Interviews
    
-   Wireframe
+ - Wireframe
    
-   Backlog
+ - Backlog
 
 ## Development (on my own)
 
-   Schedule
+  - Schedule
    
-   Constraints 
+  - Constraints 
    
-   Development strategy
+  - Development strategy
    
    Retrospective
    
@@ -29,11 +29,11 @@
 
 ## Technologies
 
-   Figma
+  - Figma
    
-   HTML
+  - HTML
    
-   CSS
+  - CSS
   
    
 
