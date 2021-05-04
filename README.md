@@ -4,7 +4,10 @@
 ## Goals
 
    
-## Contributing
+## Contributers
+
+-
+-
 
 
 ## Planning and design (pair work)
