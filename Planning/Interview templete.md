@@ -22,11 +22,22 @@
 
 - Since when did you starte living in belgium?
 
-## Use Cases
 
 ## Goals
 
+-
+
+-
+
+-
+
 ## Suggestions
+
+-
+
+-
+
+-
 
 ## Favorite Features
 
