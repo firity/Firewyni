@@ -4,10 +4,9 @@
 ## Goals
 
 - To understand UX/UI Design
-- To understand user inteview
-- To understand 
+- To understand UX User Research
+- To understand how to prepare interview quations 
 
-   
 ## Contributers
 
 -[HASEN](https://github.com/hserdogan94)
