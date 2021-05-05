@@ -10,8 +10,9 @@
    
 ## Contributers
 
--[](https://github.com/hserdogan94)
--[](https://github.com/firity)
+-[HASEN](https://github.com/hserdogan94)
+
+-[FIREWYNI](https://github.com/firity)
 
 
 ## Planning and design (pair work)
