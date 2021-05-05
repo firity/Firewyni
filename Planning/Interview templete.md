@@ -25,7 +25,7 @@
 
 ## Goals
 
--
+- 
 
 -
 
@@ -33,11 +33,9 @@
 
 ## Suggestions
 
--
+- What special thing do you hope to see on your home page?
 
--
-
--
+- Do you have any ideas or thoughts you might have that you think i might find valuable?
 
 ## Favorite Features
 
