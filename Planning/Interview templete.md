@@ -2,6 +2,10 @@
 
 ## User Details
 
+##### Name: 
+##### Age:
+##### Nationality:
+##### 
 ## Background
 
 ## Use Cases
