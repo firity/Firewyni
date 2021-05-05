@@ -1,12 +1,12 @@
 # Communication Schedule
 
-| Day       |  What to do?                             |
+| Day       |  Activity                            |
 | --------- | --------------------------------------   |
 | Monday    |                                          |
 | Thusday   |                                          |
 | Wednesday |     Creating Repo,Planning folder        |
 | Thursday  |          Interview                       |
-| Friday    |                                          |
+| Friday    |    Developing Backlog and wirframe       |
 | Saturday  |                                          |
 
 
