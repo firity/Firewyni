@@ -2,8 +2,10 @@
 
 ## User Details
 
-- Name: 
+- Name:
+ 
 - Age:
+
 - occupation:
 
 ## Background
@@ -25,19 +27,17 @@
 
 ## Goals
 
-- 
+- What is  your main goal you want to achieved with this home page?
 
--
+- What problem will solve the home page?
 
--
+- What benefits will you get from this webpage?
 
 ## Suggestions
 
 - What special thing do you hope to see on your home page?
 
 - Do you have any ideas or thoughts you might have that you think i might find valuable?
-
-## Favorite Features
 
 ## Interview details 
 
