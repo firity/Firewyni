@@ -27,6 +27,8 @@
 
 ## Goals
 
+- What is the aim of having this home page?
+
 - What is  your main goal you want to achieved with this home page?
 
 - What problem will solve the home page?
