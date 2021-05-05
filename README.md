@@ -11,9 +11,9 @@ This a project for UX/UI Design module that me and my partner gone design and de
 
 ## Contributers
 
--[HASEN](https://github.com/hserdogan94)
+- [HASEN](https://github.com/hserdogan94)
 
--[FIREWYNI](https://github.com/firity)
+- [FIREWYNI](https://github.com/firity)
 
 
 ## Planning and design (pair work)
