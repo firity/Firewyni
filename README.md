@@ -3,11 +3,15 @@
 
 ## Goals
 
+- To understand UX/UI Design
+- To understand user inteview
+- To understand 
+
    
 ## Contributers
 
--
--
+-[](https://github.com/hserdogan94)
+-[](https://github.com/firity)
 
 
 ## Planning and design (pair work)
