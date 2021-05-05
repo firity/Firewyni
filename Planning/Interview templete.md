@@ -2,9 +2,9 @@
 
 ## User Details
 
-#### Name: 
-#### Age:
-#### Nationality:
+### Name: 
+### Age:
+### Nationality:
 
 ## Background
 
