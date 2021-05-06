@@ -38,6 +38,8 @@ This a project for UX/UI Design module that me and my partner gone design and de
 
 ## Technologies
 
+  - wireframe
+  
   - Figma
    
   - HTML
