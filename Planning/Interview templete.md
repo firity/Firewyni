@@ -43,12 +43,12 @@
 
 ## Interview details 
 
-- User Name: Hasen
+- User Name:
 
-- Interviewed by: Firewyni
+- Interviewed by:
 
-- Location:  Belgium
+- Location:
 
-- Date: 06/05/2021
+- Date:
 
-- Place: on zoom
+- Place: 
