@@ -10,7 +10,7 @@
 
 - Can you tell me what inspire you ?
  
- - SHE is inspiring by the nature.
+ - SHE is inspired by the nature.
     
 - Would you mind if i ask what is your vision for the future ?
  
@@ -36,31 +36,23 @@
     
 ## Goals
 
-- What is the aim of having this home page ?
- 
-    - HER aim is to be able to communicate with people who are in the same field like her also.
-    
-- What benefits will you get from this webpage ?
-   
-    - Introducing herself. (Show what she is working on)
-    
-    - Able to find job.
-    
-    - Can communicate with the world.
-    
-## Interview details
-
-- User Name: Firewyni
-
-- Interviewed by: Hasan
-
 - What is the aim of having this home page?
 
+  - To be abel to communicate with people who are in the same field like me also
+ 
 - What is  your main goal you want to achieved with this home page?
+ 
+ - To be abel...
 
 - What problem will solve the home page?
-
+ 
 - What benefits will you get from this webpage?
+
+ - Introducing my self (Show what i am working on)
+ 
+ - Abel to find Job
+ 
+ - Can communicate with the world
 
 ## Suggestions
 
