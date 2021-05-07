@@ -1,31 +1,58 @@
-# User Interview
+## Firewyni
 
-## User Details
+- Name: Firewyi
 
-- Name:
+- Age: 26
  
-- Age:
-
-- occupation:
+- Occupation: Teacher
 
 ## Background
 
-- Can you tell me about your educational background
+- Can you tell me what inspire you ?
+ 
+ - SHE is inspiring by the nature.
+    
+- Would you mind if i ask what is your vision for the future ?
+ 
+  - HER vision is to be in better place to live peacefully.
+    
+- Can you tell me about your hobbies ?
 
-- Can you tell me what inspirse you?
-
-- Would you mind if i ask what is your vision for the futur
-
-- Can you tell me about your hoobies?
-
+  - HER hobbies are singing,reading,walking and gardening.
+    
 - Are you currently studying or working or both?
 
+   - SHE is studying French also participating in the HYF belgium and working as well.
+    
 - Do you have any short-term goal and long-term goal?
 
-- Since when did you starte living in belgium?
+  - HER short term goal is finishing HYF course and finishing her french course
+    
+   - HER long term goal is study nursing.
+    
+- Since when did you start living in belgium?
 
-
+  - SHE is here since  2018.
+    
 ## Goals
+
+- What is the aim of having this home page ?
+ 
+    - HER aim is to be able to communicate with people who are in the same field like her also.
+    
+- What benefits will you get from this webpage ?
+   
+    - Introducing herself. (Show what she is working on)
+    
+    - Able to find job.
+    
+    - Can communicate with the world.
+    
+## Interview details
+
+- User Name: Firewyni
+
+- Interviewed by: Hasan
 
 - What is the aim of having this home page?
 
