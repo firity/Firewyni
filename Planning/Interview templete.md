@@ -35,6 +35,7 @@
   - SHE is here since  2018.
     
 ## Goals
+
 - What is the aim of having this home page ?
  
     - HER aim is to be able to communicate with people who are in the same field like her also.
@@ -53,8 +54,28 @@
 
 - Interviewed by: Hasan
 
-- Location:  Belgium
+- What is the aim of having this home page?
 
-- Date: 06/05/2021
+- What is  your main goal you want to achieved with this home page?
 
-- Place: on zoom
+- What problem will solve the home page?
+
+- What benefits will you get from this webpage?
+
+## Suggestions
+
+- What special thing do you hope to see on your home page?
+
+- Do you have any ideas or thoughts you might have that you think i might find valuable?
+
+## Interview details 
+
+- User Name:
+
+- Interviewed by:
+
+- Location:
+
+- Date:
+
+- Place: 
