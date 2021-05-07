@@ -70,12 +70,12 @@
 
 ## Interview details 
 
-- User Name:
+- User Name: Firewyni
 
-- Interviewed by:
+- Interviewed by: Hasen
 
-- Location:
+- Location: Belgium
 
-- Date:
+- Date: 06/05/2021
 
-- Place: 
+- Place: on zoom 
