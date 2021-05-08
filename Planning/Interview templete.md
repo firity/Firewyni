@@ -26,7 +26,7 @@
     
 - Do you have any short-term goal and long-term goal?
 
-  - HER short term goal is finishing HYF course and finishing her french course
+   - HER short term goal is finishing HYF course and finishing her french course
     
    - HER long term goal is study nursing.
     
@@ -45,6 +45,10 @@
  - To be abel...
 
 - What problem will solve the home page?
+
+  - Opens the door for communiction
+
+  - Being abel to show skilles 
  
 - What benefits will you get from this webpage?
 
@@ -57,8 +61,12 @@
 ## Suggestions
 
 - What special thing do you hope to see on your home page?
+ 
+  - Not special but must include bio,social media links,picture
 
 - Do you have any ideas or thoughts you might have that you think i might find valuable?
+
+ - 
 
 ## Interview details 
 
