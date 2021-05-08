@@ -1,5 +1,5 @@
+# Backlog
 
-<<<<<<< HEAD
 ## Must-Haves
 
 - As an **USER** I want to accesses the navigation bar that i can navigate on pages to view content on the home page. 
@@ -43,5 +43,3 @@
    - [ ] Given the owner **Social Proof** part on the web page.
 
    
-=======
->>>>>>> 38023713945d9e3c14059a83891672dc71b3c0fe
