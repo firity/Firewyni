@@ -2,7 +2,7 @@
 
 ## `for: Header`
 
-### `html` 
+### `HTML` 
 
 - section with class called "header"
 
@@ -14,7 +14,7 @@
 
     - a with class "nav_link"
 
-### `type: css` (Header)
+### `type: CSS` (Header)
 
 - "header": 
 
