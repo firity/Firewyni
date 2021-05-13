@@ -1,31 +1,94 @@
 # Development strategy
 
-## `for: Header`
+## Header (_MUST HAVE_)
 
-### `HTML` 
+### HTML (_label_) (_issue_)
 
-- section with class called "header"
+- Logo 
+- Nav bar
 
-  - div with class called "container"
-  
-    - logo with class "logo"
+### CSS header (_label_) (_issue_)
 
-  - div with class "header-right"
+- background
+- height
+- Position
+- align
+- Font-family
 
-    - a with class "nav_link"
+### Logo CSS (_issue_)
 
-### `type: CSS` (Header)
+- font-family
+- color
+- font-size
 
-- "header": 
+### Navbar CSS (_issue_)
 
-- "container":
+- display
+- justify-content
+- align-items 
+- height
+- background-color
+- box-shadow
+- padding
+- color
 
-- "logo"
+## HEADLINE (_MUSTHAVE_)
 
-- "header a"
+### HTML (_label_) (_issue_)
 
-- "header-right"
+- div class info
+- h1
+- p2
 
-- "header-right a:hover" 
-  
+### CSS (_label_) (_issue_)
+
+- font-family
+- font-weight
+- color
+- font-size
+- font-family
+- font-weight
+- letter-spacing
+- color
+- font-size
+- color
+- font-size
+- line-height
+ 
+## PHOTO (_MUSTHAVE_)
+
+### HTML (_label_) (_issue_)
+
+- main-img
+
+### CSS (_label_) (_issue_)
+
+- height
+- width
+- position
+- bottom
+- left
+- transform
+
+## ABOUT (_MUSTHAVE_)
+
+### HTML (_label_) (_issue_)
+
+
+### CSS (_label_) (_issue_)
+
+## SKILLS (_MUSTHAVE_)
+
+### HTML (_label_) (_issue_)
+
+
+### CSS (_label_) (_issue_)
+
+
+## Contact form (_MUSTHAVE_)
+
+### HTML (_label_) (_issue_)
+
+### CSS
+
 
